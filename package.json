@@ -1,0 +1,33 @@
+{
+  "name": "js-sql",
+  "version": "1.0.0",
+  "description": "javascript &amp; sql application",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JRC404/js-sql.git"
+  },
+  "keywords": [
+    "node",
+    "deno",
+    "dean",
+    "js",
+    "javascript",
+    "jest"
+  ],
+  "author": "Jacob Reilly-Cooper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JRC404/js-sql/issues"
+  },
+  "homepage": "https://github.com/JRC404/js-sql#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  },
+  "dependencies": {
+    "mssql": "^6.2.1"
+  }
+}
